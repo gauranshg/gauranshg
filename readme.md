@@ -5,10 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=gauranshg&label=Profile%20views&color=0e75b6&style=flat" alt="gauranshg" />
 </p>
 
-<p align="left">I'm an IT engineer working as a Software Engineer at Hitachi Solutions. I have a passion for exploring new technologies and have worked on numerous projects. Currently, I'm delving into the field of Artificial Intelligence to further expand my skills.</p>
+<p align="left">I'm an Software Engineer at Hitachi Solutions. I have a passion for exploring new technologies and have worked on numerous projects. Currently, I'm delving into the field of Artificial Intelligence to further expand my skills.</p>
 
 - 🔭 I’m currently working on **AI and Machine Learning projects**
-- 🌱 I’m currently learning **Deep Learning and Neural Networks**
 - 💬 Ask me about **Python, C++, and web development**
 - 📫 How to reach me **gauransh217@gmail.com**
 
@@ -39,11 +38,7 @@
 </p>
 
 <h3 align="left">Projects:</h3>
-<ul>
-  <li><a href="https://github.com/gauranshg/project1">Project 1</a>: Brief description of what this project is about.</li>
-  <li><a href="https://github.com/gauranshg/project2">Project 2</a>: Brief description of what this project is about.</li>
-  <li><a href="https://github.com/gauranshg/project3">Project 3</a>: Brief description of what this project is about.</li>
-</ul>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauranshg&show_icons=true&locale=en&layout=compact&theme=dracula" alt="gauranshg" /></p>
 
